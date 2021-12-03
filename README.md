@@ -1,3 +1,3 @@
 # groceryList
-
+It is simple Grocery List where in it will store Grcoery List Items. List Data will not be lost even if you refresh or close the website... 
 You can check the link to Project : https://srinugrocerylist.netlify.app/ 
